@@ -1,4 +1,4 @@
-Colon Cancer Detection using EfficientNet
+****Colon Cancer Detection using EfficientNet**
 
 This project implements a deep learning model for detecting colon cancer using the EfficientNet architecture. The aim is to leverage EfficientNet's efficiency in handling medical imaging data to create a robust, accurate, and efficient solution for colon cancer detection.
 Table of Contents
@@ -110,3 +110,4 @@ References
 
     EfficientNet Paper
     TensorFlow EfficientNet Documentation
+**
